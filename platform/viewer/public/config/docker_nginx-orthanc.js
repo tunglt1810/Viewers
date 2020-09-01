@@ -6,8 +6,8 @@ window.config = {
       {
         name: 'Orthanc',
         wadoUriRoot: '/wado',
-        qidoRoot: '/dicom-web',
-        wadoRoot: '/dicom-web',
+        qidoRoot: '/wado-rs',
+        wadoRoot: '/wado-rs',
         qidoSupportsIncludeField: false,
         imageRendering: 'wadors',
         thumbnailRendering: 'wadors',
