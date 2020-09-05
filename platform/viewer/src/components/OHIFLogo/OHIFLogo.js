@@ -9,9 +9,10 @@ function OHIFLogo() {
       target="_blank"
       rel="noopener noreferrer"
       className="header-brand"
-      href="http://ohif.org"
+      href="https://tntmedical.com.vn/"
     >
-      <Icon name="ohif-logo" className="header-logo-image" />
+      {/* <Icon name="ohif-logo" className="header-logo-image" /> */}
+      <Icon name="tnt-logo" className="header-logo-image" />
       {/* Logo text would fit smaller displays at two lines:
        *
        * Open Health
@@ -19,7 +20,7 @@ function OHIFLogo() {
        *
        * Or as `OHIF` on really small displays
        */}
-      <Icon name="ohif-text-logo" className="header-logo-text" />
+      {/* <Icon name="ohif-text-logo" className="header-logo-text" /> */}
     </a>
   );
 }

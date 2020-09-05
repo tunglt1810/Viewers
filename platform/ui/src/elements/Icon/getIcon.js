@@ -87,6 +87,7 @@ import user from './icons/user.svg';
 import youtube from './icons/youtube.svg';
 import eye from './icons/eye.svg';
 import eyeClosed from './icons/eye-closed.svg';
+import tntLogo from './icons/tnt-logo.svg';
 
 const ICONS = {
   eye,
@@ -176,6 +177,7 @@ const ICONS = {
   lung,
   liver,
   save: saveRegular,
+  'tnt-logo': tntLogo,
 };
 
 /**
